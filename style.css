@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(255, 0, 128);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+p{
+    font-size: 2px;
+}
+#rawr{
+    background-color: black;
+    color: crimson;
+    width: 69px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    
+}
+.emo {
+    
+}
+#meow{
+    width:  400px;
+    height: 400px;
+    
+}
+
